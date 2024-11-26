@@ -1,0 +1,17 @@
+
+   
+h1 {
+    text-align: center;
+    font-size: 1em;
+}
+
+p {
+    text-align: left;
+}
+
+img {
+    float: right;
+    border: 1px solid black ;
+    padding: 10px;
+    margin: 10px;
+}
